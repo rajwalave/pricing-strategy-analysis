@@ -263,12 +263,6 @@ docker run --rm pricing-analysis
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for details.
-
----
-
 ## ✉️ Contact
 
 **Raj Walave** – Data Analyst / Pricing Specialist  
