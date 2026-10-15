@@ -271,7 +271,7 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ## ✉️ Contact
 
-**Aniket Tayade** – Data Analyst / Pricing Specialist  
-📧 tayadeanni@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aniket-g-tayade/)
+**Raj Walave** – Data Analyst / Pricing Specialist  
+📧 rajwalave@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/rajwalave/)
 
 ---
